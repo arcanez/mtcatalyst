@@ -1,0 +1,3 @@
+Run script/mtcatalyst_server.pl to test the application.
+
+see http://gist.github.com/122656 for lib/MT/Bootstrap.pm diff
